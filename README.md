@@ -20,7 +20,7 @@
                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
                                         alt="aws" width="40" height="40" style="margin-right: 15px;" /> </a>
                         <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img
-                                        src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
+                                        src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png"
                                         alt="terraform" width="40" height="40" style="margin-right: 15px;" /> </a>
                         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
                                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -135,7 +135,7 @@
                                         src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Katalon-logo-vector.svg"
                                         alt="katalon-studio" width="40" height="40" style="margin-right: 15px;" /> </a>
                         <a href="https://cucumber.io" target="_blank" rel="noreferrer"> <img
-                                        src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg"
+                                        src="https://www.svgrepo.com/show/353625/cucumber.svg"
                                         alt="cucumber" width="40" height="40" style="margin-right: 15px;" /> </a>
                 </td>
         </tr>
