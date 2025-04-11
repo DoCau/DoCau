@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cau</h1>
 <h3 align="center">A passionate Quality Engineer from VietNam</h3>
 
-- 🔭 I have experience working in domains **Oil & Gas, Insurance, AI**
+- 🔭 I have experience working in domains **Oil & Gas, Insurance, AI & Chatbot**
 
-- 👯 I’m looking for an opportunity to work as a **DevOps & Cloud Engineer**
+- ⛅ I’m looking for an opportunity to work as a **DevOps & Cloud Engineer**
 
 - 📫 How to reach me **work.docau@gmail.com**
 
